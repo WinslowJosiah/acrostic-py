@@ -46,7 +46,6 @@ class Evaluator:
 	def execute_until_done(self):
 		while not self.terminated:
 			self.execute_one_step()
-			# print(self.pointer)
 	
 	def starting_state(self):
 		self.grid.validate(self.dict)
