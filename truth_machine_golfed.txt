@@ -1,12 +1,10 @@
- I
- N
- I
- T
- I
- ADDITIVE
- T     O
-READ  ZILCH
-   I W D A
-TEXTUAL  S
-   T I   E
-   OUTPUTS
+     R
+DOUBLE
+  N  A
+PROVIDED
+R
+I
+NIL
+T
+END
+D
