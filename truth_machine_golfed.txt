@@ -1,12 +1,12 @@
- P
- R
+ C
  O
- L
-VOIDED   B
- G   U G R
- U  NONE A
-READ   TEN
-   I W   C
-TEXTUAL  H
+ M
+ M
+ E     A
+ NOTHING
+ C     A
+READ  ZILCH
+   I W N A
+TEXTUAL  S
    T I   E
    OUTPUTS

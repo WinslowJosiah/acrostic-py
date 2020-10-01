@@ -42,7 +42,7 @@ class Words:
 					"INCEPTION", "INCEPTIONS",
 					"INITIATE", "INITIATED", "INITIATES", "INITIATING", "INITIATION", "INITIATIONS",
 					"INAUGURATION", "INAUGURATIONS",
-					"PROLOGUE", "PROLOGUE"],
+					"PROLOGUE", "PROLOGUES"],
 				"func": functions.no_operation}),
 			SimpleNamespace(**{
 				"words": ["END", "ENDED", "ENDING", "ENDS",
@@ -55,7 +55,7 @@ class Words:
 		),
 		literal_number(0, ["ZERO", "ZEROES", "ZEROS", "ZILCH", "ZIP", "NONE", "AUGHT", "AUGHTS"]),
 		literal_number(1, ["ONE", "ONES", "SINGLE", "SINGLES", "SINGLETON", "SINGLETONS", "SINGULAR", "ACE", "ACES", "UNIT", "UNITS", "UNO", "PENNY", "PENNIES", "SOLO"]),
-		literal_number(2, ["TWO", "TWOS", "PAIR", "PAIRS", "DOUBLE", "DOUBLES", "DUO", "DUET", "DUETS", "COUPLE", "COUPLES", "DYAD", "DYADS"]),
+		literal_number(2, ["TWO", "TWOS", "PAIR", "PAIRS", "DOUBLE", "DOUBLES", "DUO", "DUOS", "DUET", "DUETS", "COUPLE", "COUPLES", "DYAD", "DYADS"]),
 		literal_number(3, ["THREE", "THREES", "TRIPLE", "TRIPLES", "TRIPLET", "TRIO", "TRIAD", "TRIADS"]),
 		literal_number(4, ["FOUR", "FOURS", "QUADRUPLE", "QUADRUPLES", "QUADRUPLET", "QUADRUPLETS", "QUARTET", "QUARTETS"]),
 		literal_number(5, ["FIVE", "FIVES", "QUINTUPLE", "QUINTUPLES", "QUINTUPLET", "QUINTUPLETS", "NICKEL", "NICKELS"]),
